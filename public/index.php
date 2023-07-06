@@ -23,4 +23,4 @@
      // Amorçage de l'application (charger les fichiers de configuration) - jamais dans le d-public
      $envFile = require __DIR__ . "/../config/bootstrap.php";
 
-     var_dump($envFile);
+   
